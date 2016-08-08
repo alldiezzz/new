@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# gem devise for user authentication like login, signup or whatever :v
+gem 'devise'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0'
