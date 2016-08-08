@@ -1,0 +1,29 @@
+{
+  "name": "shopfri",
+  "version": "0.0.0",
+  "description": "online shop",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"\\ Error: test command\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alldiezzz/new.git"
+  },
+  "keywords": [
+    "shopfri"
+  ],
+  "author": "Reinaldi Mohamad Yusup",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/alldiezzz/new/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-sass": "~2.3.2",
+    "browser-sync": "~2.14.0"
+  }
+}
